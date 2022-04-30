@@ -34,13 +34,13 @@
 
 #### Interaction when transaction is made on ReMix to MetaMask wallet result
 
-![result](/Images/result1.png "Result")
+![result](/Images/Result1.png "Result")
 
 #### Interaction when transaction is made on ReMix to MetaMask wallet result
 
 ---
 
-![Deploy3](/Images/deploy3.png "Deploy3")
+![Deploy3](/Images/Deploy3.png "Deploy3")
 
 #### Initial deployment of the KaseiCoinCrowdsale code
 
