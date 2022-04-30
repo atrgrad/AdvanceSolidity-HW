@@ -1,6 +1,6 @@
 # **Advanced Solidity - Martian Crowdsale** 
 
-![token](/Images/Token.jpeg "Token")
+![token](/Images/token.jpeg "Token")
 
 ---
 
@@ -12,43 +12,57 @@
 
 ## *Screenshots of Deployment and Results*
 
-### **Initial Deployment of Code**
+### **Compiling of the Code**
+
+![KaseiCoin](/Images/KaseiCoin.png "KaseiCoin")
+
+#### Compile of KaseiCoin code
+
+![Crowdsale](/Images/Crowdsale.png "Crowdsale")
+
+#### Compile of KaseiCoinCrowdsale code
+
+---
+
+### **Deployment of Code**
 
 ![Deploy1](/Images/deploy1.png "Deploy1")
 
 #### Initial deployment of the KaseiCoin code to initialize supply.
 
----
+![Deploy2](/Images/deploy2.png "Deploy2")
 
-### **Setting Accounts via Provided Dummy Accounts**
+#### Interaction when transaction is made on ReMix to MetaMask wallet result
 
-![Acct](/Images/setAccounts.png "Acct")
+![result](/Images/result1.png "Result")
 
----
-
-### **Testing Deposits**
-
-### Deposit 1 - 1 ETH as WEI
-
-![Deposit1](/Images/deposit1.png "Deposit1")
-
-
-### Deposit 2 - 10 ETH as WEI
-
-![Deposit2](/Images/deposit2.png "Deposit2")
-
-### Deposit 3 - 5 ETH as WEI
-
-![Deposit3](/Images/deposit3.png "Deposit3")
+#### Interaction when transaction is made on ReMix to MetaMask wallet result
 
 ---
 
-### **Testing Withdrawals & Checking Balances**
+![Deploy3](/Images/deploy3.png "Deploy3")
 
-### Withdraw 5 to accountOne
+#### Initial deployment of the KaseiCoinCrowdsale code
 
-![Withdraw1](/Images/withdraw1.png "Withdraw1")
+![Ganache](/Images/ganache.png "ganache")
 
-### Withdraw 10 to accountTwo
+#### Verification of results on Ganache
 
-![Withdraw2](/Images/withdraw2.png "Withdraw2")
+---
+
+![Mint](/Images/minter.png "mint")
+
+#### Minting the transaction
+
+![Ganache2](/Images/ganache2.png "ganache2")
+
+#### Verification of transactions via Ganache
+
+![test](/Images/test.png "Test")
+
+#### Testing other functions of the program
+
+![final](/Images/final.png "Final")
+
+#### Screenshot of final results from deployment and tests
+
